@@ -1,6 +1,6 @@
 # Books-For-My-University
 
-Books4MU is an e-commerce website designed for engineering students, particularly those from Mumbai University (MU). It offers a wide range of books with discounts up to 75%, free shipping on orders over $100, secure payments, easy returns, and 24/7 support. The website features a clean and modern design with a responsive layout, built using HTML, CSS, and JavaScript, and integrates the Swiper library for sliders.
+Books4MU is an e-commerce website designed for engineering students, particularly those from My University. It offers a wide range of books with discounts up to 75%, free shipping on orders over $100, secure payments, easy returns, and 24/7 support. The website features a clean and modern design with a responsive layout, built using HTML, CSS, and JavaScript, and integrates the Swiper library for sliders.
 
 ## Features
 
